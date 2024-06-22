@@ -69,7 +69,7 @@ Download <a href="https://git-scm.com/downloads">Git</a>.
 <details>
 <summary>Step 4: Fork the Repository</summary>
 <br>
-Click on [:fork_and_knife:](#) to fork <a href="https://github.com/mxbb-0-1/Edu-Collab">this repository</a>.
+Click on  a href="#" target="_self"><img src="https://user-images.githubusercontent.com/63921263/110382285-b07bba80-8080-11eb-8407-d354849c1753.png" width="16"></img></a> to fork <a href="https://github.com/mxbb-0-1/Edu-Collab">this repository</a>.
 </details>
 
 ---
