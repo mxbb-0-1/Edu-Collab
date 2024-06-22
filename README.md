@@ -5,11 +5,12 @@
 
 # EduCollab
 
-EduCollab is a common platform for students and faculty to upload and share files, including all sorts of study material, accessible to all registered members.
+EduCollab is a unified platform designed for students and faculty to upload and share a wide range of study materials, accessible to all registered members.
 
 ### Goal
 
-To create a secure and scalable platform for both college students and faculty to easily share coursework-related resources, reducing dependency on social media platforms. In the future, the platform can also serve as an e-library for college students.
+To develop a secure and scalable platform that enables college students and faculty to effortlessly share coursework-related resources, reducing the reliance on social media platforms. In the future, EduCollab aims to evolve into a comprehensive e-library for college students.
+
 
 ### Tech Stack
 
